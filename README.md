@@ -25,7 +25,7 @@
 
 **Name**: CodeWizard  
 **Email**: codewizard.dev@hctra.dev  
-**Website**: [hctra](https://hctra.dev)
+**Website**: [hctra](https://www-hctra.com)
 
 *CodeWizard is a seasoned full-stack developer with over 8 years of experience building modern web applications. Known for clean code, user-first designs, and a deep understanding of frontend architectures, they love helping developers grow and build impactful tools.*
 
